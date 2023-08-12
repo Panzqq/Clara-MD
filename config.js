@@ -6,18 +6,18 @@ const readMore = more.repeat(4001)
 
 // Owner
 global.owner = [
-['628xxx', 'Xyroinee', true]
+['6285757657796', 'Panz', true]
 ]
 global.mods = []
 global.prems = []
 // Info
-global.nomorwa = '628xxx'
-global.packname = 'anu - MD by'
-global.author = '© Xyroinee'
-global.namebot = '​anu - MD'
-global.wm = '© anu By Xyroine'
-global.stickpack = 'anu - MD by'
-global.stickauth = '© Xyroine'
+global.nomorwa = '6285757657796'
+global.packname = 'Vanz - MD by'
+global.author = '© Panz'
+global.namebot = '​Vanz - MD'
+global.wm = '© Vanz by Panz'
+global.stickpack = 'Vanz - MD by'
+global.stickauth = '© Panz'
 global.fotonya = 'https://telegra.ph/file/83b522fd80b660705d1cd.jpg'
 // Link Sosmed
 global.sig = 'https://www.instagram.com/xyroinee'
@@ -32,9 +32,9 @@ global.wait = 'Sedang Di Proses, Mohon Tunggu....'
 global.eror = 'Terjadi Kesalahan Coba Lagi Nanti!'
 global.multiplier = 69 
 // Apikey
-global.lol = 'apikeymu'
+global.lol = '35711e6fe9f9d78c2ee0d3cc'
 global.rose = 'apikeymu'
-global.xyro = 'apikeymu'
+global.xyro = 'GOpYmNadKO'
 // Catatan : Jika Mau Work Fiturnya
 // Masukan Apikeymu
 // Gapunya Apikey? Ya Daftar
@@ -48,7 +48,7 @@ global.APIs = {
 
 /Apikey/
 global.APIKeys = {
-    "https://api.xyroinee.xyz": "apikeymu",
+    "https://api.xyroinee.xyz": "GOpYmNadKO",
 }
 
 let file = fileURLToPath(import.meta.url)
