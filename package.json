@@ -93,7 +93,7 @@
         "socket.io": "^4.6.1",
         "steno": "^3.0.0",
         "syntax-error": "^1.4.0",
-        "terminal-image": "^2.0.0",
+        "terminal-image": "^3.0.0",
         "url-regex-safe": "^3.0.0",
         "util": "^0.12.5",
         "wa-sticker-formatter": "^4.3.2",
